@@ -1,4 +1,4 @@
-## Isso é tudo pessoal ☜(ﾟヮﾟ☜)
+## Olá
  
 - 🌱 Estudando C# e .NET
 - 😄 Pronouns: ele/dele/he/his
