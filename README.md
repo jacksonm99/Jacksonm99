@@ -1,6 +1,6 @@
 ## Olá
  
-- 🌱 Estudando C# e .NET
+- 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele/he/his
  <div>
   <a href="https://github.com/jacksonm99 ">
